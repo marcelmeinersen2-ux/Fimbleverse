@@ -1,4 +1,4 @@
-import { redirect } from 'next/navigation';
+﻿import { redirect } from 'next/navigation';
 import Link from 'next/link';
 import { createClient } from '@/lib/database/server';
 import { getHouseholdContext } from '@/lib/auth/session';
@@ -23,7 +23,8 @@ export default async function HomePage() {
   const [people, { data: feedings }, { data: expenses }, { data: settlements }] =
     await Promise.all([
       fetchMembers(supabase, ctx.householdId),
-      supabase.from('cat_feedings').select('id').eq('household_id', ctx.householdId).eq('fed_on', today),
+      supabase.from('cat_feedings').select('meal, had_snack, created_at, fed_on')
+        .eq('household_id', ctx.householdId).order('created_at', { ascending: false }).limit(1),
       supabase.from('expenses').select('payer_id, amount').eq('household_id', ctx.householdId),
       supabase.from('settlements').select('from_user_id, to_user_id, amount').eq('household_id', ctx.householdId),
     ]);
@@ -38,7 +39,18 @@ export default async function HomePage() {
     );
     balanceLine = describeBalance(me.name, other.name, net);
   }
-  const catsFed = (feedings ?? []).length > 0;
+  const latest = ((feedings ?? []) as { meal: string; had_snack: boolean; created_at: string; fed_on: string }[])[0];
+  const catsFedToday = latest?.fed_on === today;
+  let catsLine = 'Not fed yet';
+  if (latest) {
+    const when = new Date(latest.created_at);
+    const timeStr = new Intl.DateTimeFormat('en-GB', { hour: 'numeric', minute: '2-digit' }).format(when);
+    const dayStr = latest.fed_on === today
+      ? 'today'
+      : new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short' }).format(when);
+    const meal = latest.meal ? latest.meal : 'Fed';
+    catsLine = meal + (latest.had_snack ? ' + snack' : '') + ' - ' + dayStr + ' ' + timeStr;
+  }
 
   return (
     <section className="space-y-8">
@@ -53,8 +65,8 @@ export default async function HomePage() {
           <p className="font-display text-base mt-1 leading-snug">{balanceLine}</p>
         </div>
         <div className="rounded-card bg-surface border-l-4 border-l-primary border border-line p-4">
-          <p className="text-xs text-muted">Cats today</p>
-          <p className="font-display text-base mt-1">{catsFed ? 'Fed \u2713' : 'Not fed yet'}</p>
+          <p className="text-xs text-muted">Cats {catsFedToday ? '- fed today' : '- not fed today'}</p>
+          <p className="text-sm mt-1 text-ink leading-snug">{catsLine}</p>
         </div>
       </div>
 
