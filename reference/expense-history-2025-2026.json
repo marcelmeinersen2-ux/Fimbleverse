@@ -1,0 +1,1500 @@
+[
+  {
+    "date": "2025-09-01",
+    "description": "Fruit stand",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 162.25
+  },
+  {
+    "date": "2025-09-03",
+    "description": "Biedronka",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 65.68
+  },
+  {
+    "date": "2025-09-04",
+    "description": "Gas bill",
+    "category": "bills",
+    "payer": "ewa",
+    "amount": 257.89
+  },
+  {
+    "date": "2025-09-04",
+    "description": "Water bill",
+    "category": "bills",
+    "payer": "ewa",
+    "amount": 674.36
+  },
+  {
+    "date": "2025-09-06",
+    "description": "Psychodnia (Ultrasounds)",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 425.0
+  },
+  {
+    "date": "2025-09-06",
+    "description": "Biedronka",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 34.98
+  },
+  {
+    "date": "2025-09-06",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 92.0
+  },
+  {
+    "date": "2025-09-06",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 449.2
+  },
+  {
+    "date": "2025-09-07",
+    "description": "Allegro: dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 762.25
+  },
+  {
+    "date": "2025-09-07",
+    "description": "Allegro: Dia dog",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 134.99
+  },
+  {
+    "date": "2025-09-07",
+    "description": "Cat food",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 462.96
+  },
+  {
+    "date": "2025-09-09",
+    "description": "Psychodnia (deworming and Poppa visit)",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 591.0
+  },
+  {
+    "date": "2025-09-12",
+    "description": "Biedronka",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 49.94
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Fruit stand",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 148.14
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Pharmacy",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 177.54
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Castorama",
+    "category": "other",
+    "payer": "marcel",
+    "amount": 161.0
+  },
+  {
+    "date": "2025-09-19",
+    "description": "Zoo plus cats + Dog Emergency backup (dry)",
+    "category": "animals",
+    "payer": "marcel",
+    "amount": 1625.68
+  },
+  {
+    "date": "2025-09-15",
+    "description": "Psychodnia (sick Ragu)",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 481.0
+  },
+  {
+    "date": "2025-09-16",
+    "description": "Biedronka",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 102.64
+  },
+  {
+    "date": "2025-09-20",
+    "description": "Psychodnia (sick Poppa)",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 289.0
+  },
+  {
+    "date": "2025-09-20",
+    "description": "Fruit stand",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 135.74
+  },
+  {
+    "date": "2025-09-24",
+    "description": "Psychodnia (sick Poppa and Ragu poop tests)",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 628.0
+  },
+  {
+    "date": "2025-09-25",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.39
+  },
+  {
+    "date": "2025-09-25",
+    "description": "Fruit stand",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 184.18
+  },
+  {
+    "date": "2025-09-25",
+    "description": "Psychodnia (sick Poppa)",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 209.0
+  },
+  {
+    "date": "2025-09-26",
+    "description": "Allegro: Dia Dog",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 134.99
+  },
+  {
+    "date": "2025-09-27",
+    "description": "Maxizoo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 148.97
+  },
+  {
+    "date": "2025-09-29",
+    "description": "Psychodnia (Pablo allergy and vaccination)",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 825.0
+  },
+  {
+    "date": "2025-09-30",
+    "description": "Psychodnia (Poppy)",
+    "category": "animals",
+    "payer": "marcel",
+    "amount": 300.0
+  },
+  {
+    "date": "2025-10-03",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 103.0
+  },
+  {
+    "date": "2025-10-04",
+    "description": "Fruit stand",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 207.0
+  },
+  {
+    "date": "2025-10-09",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2025-10-18",
+    "description": "Fruit stand + netto",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 220.0
+  },
+  {
+    "date": "2025-10-18",
+    "description": "Dog goodies - Allegro",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 580.0
+  },
+  {
+    "date": "2025-10-19",
+    "description": "Cat food",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 460.0
+  },
+  {
+    "date": "2025-10-24",
+    "description": "Psychodnia - Ragnar meds and injections",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 953.0
+  },
+  {
+    "date": "2025-10-25",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 439.18
+  },
+  {
+    "date": "2025-10-26",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 107.0
+  },
+  {
+    "date": "2025-10-30",
+    "description": "Psychodnia - Ragnar tail issue",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 384.0
+  },
+  {
+    "date": "2025-10-30",
+    "description": "PGNIG - gaz bill",
+    "category": "bills",
+    "payer": "ewa",
+    "amount": 642.0
+  },
+  {
+    "date": "2025-10-31",
+    "description": "Psychodnia - Ragnar ultrasound",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 238.0
+  },
+  {
+    "date": "2025-10-31",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 957.85
+  },
+  {
+    "date": "2025-11-01",
+    "description": "Dog goodies - allegro",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 554.72
+  },
+  {
+    "date": "2025-11-03",
+    "description": "Dog goodies - Maxizoo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 179.0
+  },
+  {
+    "date": "2025-11-07",
+    "description": "Pharmacy",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 176.0
+  },
+  {
+    "date": "2025-11-07",
+    "description": "Dog toys - Maxizoo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 185.0
+  },
+  {
+    "date": "2025-11-08",
+    "description": "Taste store",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 363.25
+  },
+  {
+    "date": "2025-11-08",
+    "description": "Food",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 72.5
+  },
+  {
+    "date": "2025-11-08",
+    "description": "Castorama",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 111.42
+  },
+  {
+    "date": "2025-11-10",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 362.79
+  },
+  {
+    "date": "2025-11-13",
+    "description": "Dog food - psi bufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2025-11-14",
+    "description": "Psychodnia - Ragnar",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 180.0
+  },
+  {
+    "date": "2025-11-15",
+    "description": "Allegro - dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 766.42
+  },
+  {
+    "date": "2025-11-15",
+    "description": "Maxizoo - dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 251.29
+  },
+  {
+    "date": "2025-11-21",
+    "description": "Cat food",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 592.64
+  },
+  {
+    "date": "2025-11-22",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 563.72
+  },
+  {
+    "date": "2025-11-26",
+    "description": "Catfood, Litter Etc",
+    "category": "animals",
+    "payer": "marcel",
+    "amount": 1001.82
+  },
+  {
+    "date": "2025-11-27",
+    "description": "Dogfood psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2025-11-29",
+    "description": "BMW",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 758.76
+  },
+  {
+    "date": "2025-11-29",
+    "description": "Dog goodies - allegro",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 590.86
+  },
+  {
+    "date": "2025-11-30",
+    "description": "Tastestore",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 787.0
+  },
+  {
+    "date": "2025-11-24",
+    "description": "Psychodnia: Ragnar Injection and treatment",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 1033.0
+  },
+  {
+    "date": "2025-11-24",
+    "description": "Psychodnia: Pablo alergy",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 975.0
+  },
+  {
+    "date": "2025-12-03",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 327.73
+  },
+  {
+    "date": "2025-12-06",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 211.0
+  },
+  {
+    "date": "2025-12-07",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 271.0
+  },
+  {
+    "date": "2025-12-07",
+    "description": "Castorama",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 199.0
+  },
+  {
+    "date": "2025-12-11",
+    "description": "Electricity",
+    "category": "bills",
+    "payer": "ewa",
+    "amount": 2950.0
+  },
+  {
+    "date": "2025-12-11",
+    "description": "Dog food: psi bufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2025-12-13",
+    "description": "Christmas Decorations",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 636.0
+  },
+  {
+    "date": "2025-12-13",
+    "description": "Dog goodies allegro",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 654.0
+  },
+  {
+    "date": "2025-12-14",
+    "description": "Herrings",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 216.0
+  },
+  {
+    "date": "2025-12-14",
+    "description": "Christmas food",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 645.0
+  },
+  {
+    "date": "2025-12-18",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 1007.0
+  },
+  {
+    "date": "2025-12-19",
+    "description": "Psychodnia - Ragu massage",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 150.0
+  },
+  {
+    "date": "2025-12-20",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 306.0
+  },
+  {
+    "date": "2025-12-21",
+    "description": "Dog food: psi bufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2025-12-23",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 251.0
+  },
+  {
+    "date": "2025-12-23",
+    "description": "Castorama",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 66.94
+  },
+  {
+    "date": "2025-12-26",
+    "description": "Allegro dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 564.0
+  },
+  {
+    "date": "2025-12-26",
+    "description": "Cat expensive food",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 421.0
+  },
+  {
+    "date": "2025-12-27",
+    "description": "Diadog",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 121.0
+  },
+  {
+    "date": "2025-12-27",
+    "description": "Maxizoo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 246.0
+  },
+  {
+    "date": "2025-12-29",
+    "description": "Psychodnia Pablo - antiallergic stuff",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 785.0
+  },
+  {
+    "date": "2025-12-30",
+    "description": "Psychodnia Frami blood tests",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 395.0
+  },
+  {
+    "date": "2025-12-30",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 487.0
+  },
+  {
+    "date": "2026-01-02",
+    "description": "Psychodnia - Topik and Topcia checkup",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 782.0
+  },
+  {
+    "date": "2026-01-05",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 589.0
+  },
+  {
+    "date": "2026-01-08",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2026-01-09",
+    "description": "PGNIG gaz bill",
+    "category": "bills",
+    "payer": "ewa",
+    "amount": 1420.0
+  },
+  {
+    "date": "2026-01-10",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 259.0
+  },
+  {
+    "date": "2026-01-12",
+    "description": "Psychodnia - Ragnar ultrasound",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 200.0
+  },
+  {
+    "date": "2026-01-15",
+    "description": "Allegro - dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 382.0
+  },
+  {
+    "date": "2026-01-17",
+    "description": "Psadom - dog hotel",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 750.0
+  },
+  {
+    "date": "2026-01-17",
+    "description": "Biedronka",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 45.0
+  },
+  {
+    "date": "2026-01-18",
+    "description": "Pizza stuff",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 201.0
+  },
+  {
+    "date": "2026-01-20",
+    "description": "Protein powders",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 221.0
+  },
+  {
+    "date": "2026-01-21",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 545.0
+  },
+  {
+    "date": "2026-01-22",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 322.0
+  },
+  {
+    "date": "2026-01-22",
+    "description": "Psychodnia - Ragnar eye doctor",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 200.0
+  },
+  {
+    "date": "2026-01-23",
+    "description": "Maxizoo - cat litter",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 182.0
+  },
+  {
+    "date": "2026-01-24",
+    "description": "Taste store",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 227.0
+  },
+  {
+    "date": "2026-01-24",
+    "description": "Georgian bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 38.0
+  },
+  {
+    "date": "2026-01-24",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 311.0
+  },
+  {
+    "date": "2026-01-31",
+    "description": "Cat Food, Toys & Litter",
+    "category": "animals",
+    "payer": "marcel",
+    "amount": 1100.0
+  },
+  {
+    "date": "2026-01-31",
+    "description": "4x Smoke Detectors",
+    "category": "other",
+    "payer": "marcel",
+    "amount": 550.0
+  },
+  {
+    "date": "2026-01-25",
+    "description": "Dog supplements",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 431.0
+  },
+  {
+    "date": "2026-01-25",
+    "description": "Allegro - dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 660.0
+  },
+  {
+    "date": "2026-01-31",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 404.0
+  },
+  {
+    "date": "2026-02-01",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 167.0
+  },
+  {
+    "date": "2026-02-05",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2026-02-10",
+    "description": "Biedronka",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 159.0
+  },
+  {
+    "date": "2026-02-14",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 826.0
+  },
+  {
+    "date": "2026-02-14",
+    "description": "Tastestore",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 646.0
+  },
+  {
+    "date": "2026-02-15",
+    "description": "Cat food",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 482.0
+  },
+  {
+    "date": "2026-02-16",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2026-02-19",
+    "description": "Psychodnia - Pablo (allergy)",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 817.0
+  },
+  {
+    "date": "2026-02-20",
+    "description": "Psychodnia - Ragnar (vaccination, meds, librela)",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 1176.0
+  },
+  {
+    "date": "2026-02-21",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 132.0
+  },
+  {
+    "date": "2026-02-21",
+    "description": "Bills - gaz",
+    "category": "bills",
+    "payer": "ewa",
+    "amount": 2395.0
+  },
+  {
+    "date": "2026-02-21",
+    "description": "Makro",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 770.0
+  },
+  {
+    "date": "2026-03-01",
+    "description": "Bills: water",
+    "category": "bills",
+    "payer": "ewa",
+    "amount": 731.0
+  },
+  {
+    "date": "2026-03-01",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 84.0
+  },
+  {
+    "date": "2026-03-02",
+    "description": "Psi bufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2026-03-02",
+    "description": "Psychodnia Fram vaccination",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 257.0
+  },
+  {
+    "date": "2026-03-03",
+    "description": "Psychodnia Pablo vaccination",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 227.0
+  },
+  {
+    "date": "2026-03-03",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 559.0
+  },
+  {
+    "date": "2026-03-05",
+    "description": "Pharmacy",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 116.0
+  },
+  {
+    "date": "2026-03-16",
+    "description": "Coffee",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 365.0
+  },
+  {
+    "date": "2026-03-16",
+    "description": "Psi bufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 372.0
+  },
+  {
+    "date": "2026-03-19",
+    "description": "Biedronka",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 114.0
+  },
+  {
+    "date": "2026-03-21",
+    "description": "Dog supplements",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 483.0
+  },
+  {
+    "date": "2026-03-21",
+    "description": "Allegro Mexican",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 83.0
+  },
+  {
+    "date": "2026-03-21",
+    "description": "Pharmacy",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 268.0
+  },
+  {
+    "date": "2026-03-22",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 198.0
+  },
+  {
+    "date": "2026-03-25",
+    "description": "Allegro dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 663.0
+  },
+  {
+    "date": "2026-03-25",
+    "description": "Tastestore",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 385.0
+  },
+  {
+    "date": "2026-03-28",
+    "description": "BMW",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 739.0
+  },
+  {
+    "date": "2026-03-29",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 974.0
+  },
+  {
+    "date": "2026-03-30",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 352.0
+  },
+  {
+    "date": "2026-03-31",
+    "description": "Psychodnia Pablo allergy",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 809.0
+  },
+  {
+    "date": "2026-03-31",
+    "description": "Cat food",
+    "category": "animals",
+    "payer": "marcel",
+    "amount": 890.0
+  },
+  {
+    "date": "2026-04-01",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 191.0
+  },
+  {
+    "date": "2026-04-03",
+    "description": "Psychodnia - Ragnar massage",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 150.0
+  },
+  {
+    "date": "2026-04-05",
+    "description": "Allegro dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 698.0
+  },
+  {
+    "date": "2026-04-05",
+    "description": "Easter catering",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 665.0
+  },
+  {
+    "date": "2026-04-09",
+    "description": "Inchcape",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 1082.0
+  },
+  {
+    "date": "2026-04-11",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 775.0
+  },
+  {
+    "date": "2026-04-13",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 410.0
+  },
+  {
+    "date": "2026-04-18",
+    "description": "Psychodnia Pablo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 957.0
+  },
+  {
+    "date": "2026-04-18",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 643.0
+  },
+  {
+    "date": "2026-04-19",
+    "description": "Olimp protein",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 254.0
+  },
+  {
+    "date": "2026-04-19",
+    "description": "Dog supplements",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 358.0
+  },
+  {
+    "date": "2026-04-24",
+    "description": "Psadom",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 625.0
+  },
+  {
+    "date": "2026-04-26",
+    "description": "Allegro dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 654.0
+  },
+  {
+    "date": "2026-04-26",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 142.0
+  },
+  {
+    "date": "2026-04-27",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 410.0
+  },
+  {
+    "date": "2026-04-30",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 933.0
+  },
+  {
+    "date": "2026-04-15",
+    "description": "Zooplus",
+    "category": "animals",
+    "payer": "marcel",
+    "amount": 922.0
+  },
+  {
+    "date": "2026-04-15",
+    "description": "Zooplus litter",
+    "category": "animals",
+    "payer": "marcel",
+    "amount": 282.0
+  },
+  {
+    "date": "2026-05-01",
+    "description": "Cat food",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 540.0
+  },
+  {
+    "date": "2026-05-08",
+    "description": "Gas bill",
+    "category": "bills",
+    "payer": "ewa",
+    "amount": 1334.0
+  },
+  {
+    "date": "2026-05-08",
+    "description": "Psychodnia Pablo and Ragnar",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 2103.0
+  },
+  {
+    "date": "2026-05-09",
+    "description": "Tastestore",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 454.0
+  },
+  {
+    "date": "2026-05-09",
+    "description": "Biedronka",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 78.0
+  },
+  {
+    "date": "2026-05-10",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 397.0
+  },
+  {
+    "date": "2026-05-13",
+    "description": "Psadom",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 375.0
+  },
+  {
+    "date": "2026-05-14",
+    "description": "Allegro dog goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 741.0
+  },
+  {
+    "date": "2026-05-16",
+    "description": "Bakery and fruit stand",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 453.0
+  },
+  {
+    "date": "2026-05-16",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 530.0
+  },
+  {
+    "date": "2026-05-22",
+    "description": "Psychodnia Pablo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 420.0
+  },
+  {
+    "date": "2026-05-22",
+    "description": "Taste store",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 727.0
+  },
+  {
+    "date": "2026-05-22",
+    "description": "Cat food",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 560.0
+  },
+  {
+    "date": "2026-05-22",
+    "description": "Cat litter",
+    "category": "animals",
+    "payer": "marcel",
+    "amount": 276.0
+  },
+  {
+    "date": "2026-05-23",
+    "description": "Fruitstand",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 161.0
+  },
+  {
+    "date": "2026-05-24",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 397.0
+  },
+  {
+    "date": "2026-05-26",
+    "description": "Psychodnia Pablo surgery",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 3795.0
+  },
+  {
+    "date": "2026-05-26",
+    "description": "Pharmacy for Pablo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 121.0
+  },
+  {
+    "date": "2026-05-27",
+    "description": "Psychodnia Pablo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 480.0
+  },
+  {
+    "date": "2026-05-29",
+    "description": "Psychodnia Pablo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 155.0
+  },
+  {
+    "date": "2026-05-30",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 49.0
+  },
+  {
+    "date": "2026-05-30",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 514.0
+  },
+  {
+    "date": "2026-05-30",
+    "description": "Fruitstand",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 195.95
+  },
+  {
+    "date": "2026-05-31",
+    "description": "Castorama",
+    "category": "other",
+    "payer": "marcel",
+    "amount": 264.7
+  },
+  {
+    "date": "2026-06-04",
+    "description": "Allegro soft drinks",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 320.0
+  },
+  {
+    "date": "2026-06-05",
+    "description": "Fruitstand",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 145.3
+  },
+  {
+    "date": "2026-06-06",
+    "description": "Castorama",
+    "category": "other",
+    "payer": "marcel",
+    "amount": 1212.5
+  },
+  {
+    "date": "2026-06-08",
+    "description": "Cameras",
+    "category": "other",
+    "payer": "marcel",
+    "amount": 1797.0
+  },
+  {
+    "date": "2026-06-13",
+    "description": "Tastestore",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 429.85
+  },
+  {
+    "date": "2026-06-13",
+    "description": "Cakes",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 280.0
+  },
+  {
+    "date": "2026-06-13",
+    "description": "Fruitstand",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 116.98
+  },
+  {
+    "date": "2026-06-04",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 80.5
+  },
+  {
+    "date": "2026-06-05",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 538.0
+  },
+  {
+    "date": "2026-06-06",
+    "description": "Allegro - dog supplements and goodies",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 1339.0
+  },
+  {
+    "date": "2026-06-06",
+    "description": "Maxizoo",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 191.0
+  },
+  {
+    "date": "2026-06-07",
+    "description": "Psadom - reservation",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 375.0
+  },
+  {
+    "date": "2026-06-11",
+    "description": "Psychodnia",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 1035.0
+  },
+  {
+    "date": "2026-06-12",
+    "description": "Psychodnia - Poppa",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 169.0
+  },
+  {
+    "date": "2026-06-12",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 582.0
+  },
+  {
+    "date": "2026-06-17",
+    "description": "Keys",
+    "category": "other",
+    "payer": "ewa",
+    "amount": 450.0
+  },
+  {
+    "date": "2026-06-17",
+    "description": "Bakery",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 123.0
+  },
+  {
+    "date": "2026-06-19",
+    "description": "Fruitstand",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 162.0
+  },
+  {
+    "date": "2026-06-19",
+    "description": "Psychodnia Pablo allergy",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 757.0
+  },
+  {
+    "date": "2026-06-20",
+    "description": "Makro",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 882.0
+  },
+  {
+    "date": "2026-06-21",
+    "description": "Psibufet",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 398.0
+  },
+  {
+    "date": "2026-06-21",
+    "description": "Good spirits non alcoholic drinks",
+    "category": "food",
+    "payer": "ewa",
+    "amount": 564.0
+  },
+  {
+    "date": "2026-06-23",
+    "description": "Psychodnia Poppa",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 409.0
+  },
+  {
+    "date": "2026-06-27",
+    "description": "Cat expensive food",
+    "category": "animals",
+    "payer": "ewa",
+    "amount": 758.0
+  },
+  {
+    "date": "2026-06-20",
+    "description": "Clothes cleaning",
+    "category": "other",
+    "payer": "marcel",
+    "amount": 394.0
+  },
+  {
+    "date": "2026-06-23",
+    "description": "Makro",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 161.0
+  },
+  {
+    "date": "2026-06-23",
+    "description": "Castorama",
+    "category": "other",
+    "payer": "marcel",
+    "amount": 80.0
+  },
+  {
+    "date": "2026-06-27",
+    "description": "Makro",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 673.0
+  },
+  {
+    "date": "2026-06-29",
+    "description": "Fruitstand",
+    "category": "food",
+    "payer": "marcel",
+    "amount": 153.0
+  },
+  {
+    "date": "2026-06-29",
+    "description": "Castorama",
+    "category": "other",
+    "payer": "marcel",
+    "amount": 187.0
+  }
+]

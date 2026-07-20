@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --font-sans: ui-sans-serif, system-ui; --font-display: Georgia, serif; }
+
+html, body {
+  background: theme('colors.bg');
+  color: theme('colors.ink');
+  /* Prevent rubber-band overscroll revealing white behind the app. */
+  overscroll-behavior-y: none;
+}
+
+/* Visible keyboard focus; respect reduced motion. */
+:focus-visible { outline: 2px solid theme('colors.focus'); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+/* Comfortable touch targets. */
+button, a, input, select { min-height: 44px; }
+
+/* iOS zooms the page when focusing an input under 16px. Force >=16px. */
+input, select, textarea { font-size: 16px; }
+
+/* Kill the grey tap flash on iOS for a native feel; keep focus ring. */
+a, button { -webkit-tap-highlight-color: transparent; }
+
+/* Safe-area helpers for notch + home indicator (viewport-fit=cover). */
+.safe-top    { padding-top: max(env(safe-area-inset-top), 0px); }
+.safe-bottom { padding-bottom: max(env(safe-area-inset-bottom), 0px); }
