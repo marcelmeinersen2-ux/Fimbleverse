@@ -1,4 +1,4 @@
-'use client';
+﻿'use client';
 import { useState } from 'react';
 import { updateExpense, deleteExpense } from '@/server/expenses';
 
@@ -32,6 +32,11 @@ export function ExpenseList(
 
   function nameOf(list: Option[], id: string) {
     return list.find((o) => o.id === id)?.name ?? '';
+  }
+
+  function otherName(payerId: string) {
+    const nonPayer = people.find((pp) => pp.id !== payerId);
+    return nonPayer?.name ?? '';
   }
 
   async function saveEdit(id: string, e: React.FormEvent<HTMLFormElement>) {
@@ -111,13 +116,13 @@ export function ExpenseList(
               <div>
                 <p className="text-ink">{e.description || e.categoryName}</p>
                 <p className="text-xs text-muted">
-                  {shortDate(e.spent_on)} · {e.categoryName} · {e.payerName} paid
+                  {shortDate(e.spent_on)} - {e.categoryName} - {e.payerName} paid
                 </p>
               </div>
               <span className="font-medium tabular-nums">{zloty(e.amount)}</span>
             </div>
             <p className="text-xs text-accent-ink mt-1">
-              {e.payerName} paid · other owes {zloty(half)}
+              {e.payerName} paid - {otherName(e.payer_id)} owes {zloty(half)}
             </p>
             {confirmDelete === e.id ? (
               <div className="flex gap-2 mt-3">
